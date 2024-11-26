@@ -5,11 +5,11 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://fakestoreapi.com",
+			"url": "https://fakestoreapi.com/products",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Basic",
 			"userName": "vdanda",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM4Q0RCQTUyLTE3RUItNDFBNy05QzQ0LTE2NDY0MURGQjg4OV9jYjIwMDI4MC0yMzRkLTQ3MTgtOTAwOC1jODgxMjYyNTZlYjAiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM4Q0RCQTUyLTE3RUItNDFBNy05QzQ0LTE2NDY0MURGQjg4OV8zMjMwYzZkNi0xNzVmLTQ4MGQtOTBjMy0xMjllMWU0NTkzMDkiDQp9"
 		}
 	}
 }
